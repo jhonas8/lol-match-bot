@@ -7,3 +7,5 @@ Compile the main.py file typing python3 main.py on your system terminal.
 It requires Python to work.
 
 Soon I'll be implementing a user-friendly visual interface.
+
+[ this is a really old project I've found on my computer ]
